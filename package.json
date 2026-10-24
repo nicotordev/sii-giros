@@ -1,6 +1,6 @@
 {
   "name": "@nicotordev/sii-giros",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Códigos de actividad económica del SII de Chile, consultables y exportables por rubro.",
   "keywords": [
     "sii",
@@ -50,8 +50,5 @@
   },
   "devDependencies": {
     "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^7"
   }
 }
