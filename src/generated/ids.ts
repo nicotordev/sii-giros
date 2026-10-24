@@ -1,0 +1,25 @@
+export const RUBRO_IDS = [
+  "agricultura-ganaderia-silvicultura-y-pesca",
+  "explotacion-de-minas-y-canteras",
+  "industria-manufacturera",
+  "suministro-de-electricidad-gas-vapor-y-aire-acondicionado",
+  "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+  "construccion",
+  "comercio-al-por-mayor-y-al-por-menor-reparacion-de-vehiculos-automotores-y-motocicletas",
+  "transporte-y-almacenamiento",
+  "actividades-de-alojamiento-y-de-servicio-de-comidas",
+  "informacion-y-comunicaciones",
+  "actividades-financieras-y-de-seguros",
+  "actividades-inmobiliarias",
+  "actividades-profesionales-cientificas-y-tecnicas",
+  "actividades-de-servicios-administrativos-y-de-apoyo",
+  "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+  "ensenanza",
+  "actividades-de-atencion-de-la-salud-humana-y-de-asistencia-social",
+  "actividades-artisticas-de-entretenimiento-y-recreativas",
+  "otras-actividades-de-servicios",
+  "actividades-de-los-hogares-como-empleadores-actividades-no-diferenciadas-de-los-hogares",
+  "actividades-de-organizaciones-y-organos-extraterritoriales",
+] as const;
+
+export type RubroId = (typeof RUBRO_IDS)[number];

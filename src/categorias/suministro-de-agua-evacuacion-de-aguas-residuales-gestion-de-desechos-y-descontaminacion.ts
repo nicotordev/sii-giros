@@ -1,0 +1,167 @@
+import type { Giro, Rubro } from "../types.ts";
+
+export const rubro: Rubro = {
+  "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+  "nombre": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+  "grupos": [
+    {
+      "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:captacion-tratamiento-y-distribucion-de-agua",
+      "nombre": "CAPTACIÓN, TRATAMIENTO Y DISTRIBUCIÓN DE AGUA",
+      "giros": [
+        {
+          "codigo": "360000",
+          "descripcion": "CAPTACIÓN, TRATAMIENTO Y DISTRIBUCIÓN DE AGUA",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:captacion-tratamiento-y-distribucion-de-agua",
+          "grupo": "CAPTACIÓN, TRATAMIENTO Y DISTRIBUCIÓN DE AGUA"
+        }
+      ]
+    },
+    {
+      "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:evacuacion-de-aguas-residuales",
+      "nombre": "EVACUACIÓN DE AGUAS RESIDUALES",
+      "giros": [
+        {
+          "codigo": "370000",
+          "descripcion": "EVACUACIÓN Y TRATAMIENTO DE AGUAS SERVIDAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:evacuacion-de-aguas-residuales",
+          "grupo": "EVACUACIÓN DE AGUAS RESIDUALES"
+        }
+      ]
+    },
+    {
+      "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recogida-de-desechos",
+      "nombre": "RECOGIDA DE DESECHOS",
+      "giros": [
+        {
+          "codigo": "381100",
+          "descripcion": "RECOGIDA DE DESECHOS NO PELIGROSOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recogida-de-desechos",
+          "grupo": "RECOGIDA DE DESECHOS"
+        },
+        {
+          "codigo": "381200",
+          "descripcion": "RECOGIDA DE DESECHOS PELIGROSOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recogida-de-desechos",
+          "grupo": "RECOGIDA DE DESECHOS"
+        }
+      ]
+    },
+    {
+      "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:tratamiento-y-eliminacion-de-desechos",
+      "nombre": "TRATAMIENTO Y ELIMINACIÓN DE DESECHOS",
+      "giros": [
+        {
+          "codigo": "382100",
+          "descripcion": "TRATAMIENTO Y ELIMINACIÓN DE DESECHOS NO PELIGROSOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:tratamiento-y-eliminacion-de-desechos",
+          "grupo": "TRATAMIENTO Y ELIMINACIÓN DE DESECHOS"
+        },
+        {
+          "codigo": "382200",
+          "descripcion": "TRATAMIENTO Y ELIMINACIÓN DE DESECHOS PELIGROSOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:tratamiento-y-eliminacion-de-desechos",
+          "grupo": "TRATAMIENTO Y ELIMINACIÓN DE DESECHOS"
+        }
+      ]
+    },
+    {
+      "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recuperacion-de-materiales",
+      "nombre": "RECUPERACIÓN DE MATERIALES",
+      "giros": [
+        {
+          "codigo": "383001",
+          "descripcion": "RECUPERACIÓN Y RECICLAMIENTO DE DESPERDICIOS Y DESECHOS METÁLICOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recuperacion-de-materiales",
+          "grupo": "RECUPERACIÓN DE MATERIALES"
+        },
+        {
+          "codigo": "383002",
+          "descripcion": "RECUPERACIÓN Y RECICLAMIENTO DE PAPEL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recuperacion-de-materiales",
+          "grupo": "RECUPERACIÓN DE MATERIALES"
+        },
+        {
+          "codigo": "383003",
+          "descripcion": "RECUPERACIÓN Y RECICLAMIENTO DE VIDRIO",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recuperacion-de-materiales",
+          "grupo": "RECUPERACIÓN DE MATERIALES"
+        },
+        {
+          "codigo": "383009",
+          "descripcion": "RECUPERACIÓN Y RECICLAMIENTO DE OTROS DESPERDICIOS Y DESECHOS N.C.P.",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:recuperacion-de-materiales",
+          "grupo": "RECUPERACIÓN DE MATERIALES"
+        }
+      ]
+    },
+    {
+      "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:actividades-de-descontaminacion-y-otros-servicios-de-gestion-de-desechos",
+      "nombre": "ACTIVIDADES DE DESCONTAMINACIÓN Y OTROS SERVICIOS DE GESTIÓN DE DESECHOS",
+      "giros": [
+        {
+          "codigo": "390000",
+          "descripcion": "ACTIVIDADES DE DESCONTAMINACIÓN Y OTROS SERVICIOS DE GESTIÓN DE DESECHOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+          "rubro": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+          "grupoId": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion:actividades-de-descontaminacion-y-otros-servicios-de-gestion-de-desechos",
+          "grupo": "ACTIVIDADES DE DESCONTAMINACIÓN Y OTROS SERVICIOS DE GESTIÓN DE DESECHOS"
+        }
+      ]
+    }
+  ]
+};
+
+export const giros: readonly Giro[] = rubro.grupos.flatMap((grupo) => grupo.giros);

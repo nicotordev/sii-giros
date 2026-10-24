@@ -1,0 +1,127 @@
+import type { Giro, Rubro } from "../types.ts";
+
+export const rubro: Rubro = {
+  "id": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+  "nombre": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+  "grupos": [
+    {
+      "id": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:administracion-del-estado-y-aplicacion-de-la-politica-economica-y-social-de-la-comunidad",
+      "nombre": "ADMINISTRACIÓN DEL ESTADO Y APLICACIÓN DE LA POLÍTICA ECONÓMICA Y SOCIAL DE LA COMUNIDAD",
+      "giros": [
+        {
+          "codigo": "841100",
+          "descripcion": "ACTIVIDADES DE LA ADMINISTRACIÓN PÚBLICA EN GENERAL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:administracion-del-estado-y-aplicacion-de-la-politica-economica-y-social-de-la-comunidad",
+          "grupo": "ADMINISTRACIÓN DEL ESTADO Y APLICACIÓN DE LA POLÍTICA ECONÓMICA Y SOCIAL DE LA COMUNIDAD"
+        },
+        {
+          "codigo": "841200",
+          "descripcion": "REGULACIÓN DE LAS ACTIVIDADES DE ORGANISMOS QUE PRESTAN SERVICIOS SANITARIOS, EDUCATIVOS, CULTURALES",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:administracion-del-estado-y-aplicacion-de-la-politica-economica-y-social-de-la-comunidad",
+          "grupo": "ADMINISTRACIÓN DEL ESTADO Y APLICACIÓN DE LA POLÍTICA ECONÓMICA Y SOCIAL DE LA COMUNIDAD"
+        },
+        {
+          "codigo": "841300",
+          "descripcion": "REGULACIÓN Y FACILITACIÓN DE LA ACTIVIDAD ECONÓMICA",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:administracion-del-estado-y-aplicacion-de-la-politica-economica-y-social-de-la-comunidad",
+          "grupo": "ADMINISTRACIÓN DEL ESTADO Y APLICACIÓN DE LA POLÍTICA ECONÓMICA Y SOCIAL DE LA COMUNIDAD"
+        }
+      ]
+    },
+    {
+      "id": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:prestacion-de-servicios-a-la-comunidad-en-general",
+      "nombre": "PRESTACIÓN DE SERVICIOS A LA COMUNIDAD EN GENERAL",
+      "giros": [
+        {
+          "codigo": "842100",
+          "descripcion": "RELACIONES EXTERIORES",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:prestacion-de-servicios-a-la-comunidad-en-general",
+          "grupo": "PRESTACIÓN DE SERVICIOS A LA COMUNIDAD EN GENERAL"
+        },
+        {
+          "codigo": "842200",
+          "descripcion": "ACTIVIDADES DE DEFENSA",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:prestacion-de-servicios-a-la-comunidad-en-general",
+          "grupo": "PRESTACIÓN DE SERVICIOS A LA COMUNIDAD EN GENERAL"
+        },
+        {
+          "codigo": "842300",
+          "descripcion": "ACTIVIDADES DE MANTENIMIENTO DEL ORDEN PÚBLICO Y DE SEGURIDAD",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:prestacion-de-servicios-a-la-comunidad-en-general",
+          "grupo": "PRESTACIÓN DE SERVICIOS A LA COMUNIDAD EN GENERAL"
+        }
+      ]
+    },
+    {
+      "id": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:actividades-de-planes-de-seguridad-social-de-afiliacion-obligatoria",
+      "nombre": "ACTIVIDADES DE PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+      "giros": [
+        {
+          "codigo": "843010",
+          "descripcion": "FONDO NACIONAL DE SALUD (FONASA)",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:actividades-de-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "grupo": "ACTIVIDADES DE PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA"
+        },
+        {
+          "codigo": "843020",
+          "descripcion": "INSTITUTO DE PREVISIÓN SOCIAL (IPS)",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:actividades-de-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "grupo": "ACTIVIDADES DE PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA"
+        },
+        {
+          "codigo": "843090",
+          "descripcion": "OTROS PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA N.C.P.",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "rubro": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+          "grupoId": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria:actividades-de-planes-de-seguridad-social-de-afiliacion-obligatoria",
+          "grupo": "ACTIVIDADES DE PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA"
+        }
+      ]
+    }
+  ]
+};
+
+export const giros: readonly Giro[] = rubro.grupos.flatMap((grupo) => grupo.giros);

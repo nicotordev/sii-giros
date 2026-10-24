@@ -1,0 +1,260 @@
+import type { Giro, Rubro } from "../types.ts";
+
+export const rubro: Rubro = {
+  "id": "actividades-artisticas-de-entretenimiento-y-recreativas",
+  "nombre": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+  "grupos": [
+    {
+      "id": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-creativas-artisticas-y-de-entretenimiento",
+      "nombre": "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO",
+      "giros": [
+        {
+          "codigo": "900001",
+          "descripcion": "SERVICIOS DE PRODUCCIÓN DE OBRAS DE TEATRO, CONCIERTOS, ESPECTÁCULOS DE DANZA, OTRAS PROD. ESCÉNICAS",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-creativas-artisticas-y-de-entretenimiento",
+          "grupo": "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO"
+        },
+        {
+          "codigo": "900002",
+          "descripcion": "ACTIVIDADES ARTÍSTICAS REALIZADAS POR BANDAS DE MÚSICA, COMPAÑÍAS DE TEATRO, CIRCENSES Y SIMILARES",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-creativas-artisticas-y-de-entretenimiento",
+          "grupo": "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO"
+        },
+        {
+          "codigo": "900003",
+          "descripcion": "ACTIVIDADES DE ARTISTAS REALIZADAS DE FORMA INDEPENDIENTE: ACTORES, MÚSICOS, ESCRITORES, ENTRE OTROS",
+          "afectoIva": "NO",
+          "categoriaTributaria": "2",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-creativas-artisticas-y-de-entretenimiento",
+          "grupo": "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO"
+        },
+        {
+          "codigo": "900004",
+          "descripcion": "SERVICIOS PRESTADOS POR PERIODISTAS INDEPENDIENTES",
+          "afectoIva": "NO",
+          "categoriaTributaria": "2",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-creativas-artisticas-y-de-entretenimiento",
+          "grupo": "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO"
+        },
+        {
+          "codigo": "900009",
+          "descripcion": "OTRAS ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO N.C.P.",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-creativas-artisticas-y-de-entretenimiento",
+          "grupo": "ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO"
+        }
+      ]
+    },
+    {
+      "id": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-bibliotecas-archivos-y-museos-y-otras-actividades-culturales",
+      "nombre": "ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES",
+      "giros": [
+        {
+          "codigo": "910100",
+          "descripcion": "ACTIVIDADES DE BIBLIOTECAS Y ARCHIVOS",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-bibliotecas-archivos-y-museos-y-otras-actividades-culturales",
+          "grupo": "ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES"
+        },
+        {
+          "codigo": "910200",
+          "descripcion": "ACTIVIDADES DE MUSEOS, GESTIÓN DE LUGARES Y EDIFICIOS HISTÓRICOS",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-bibliotecas-archivos-y-museos-y-otras-actividades-culturales",
+          "grupo": "ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES"
+        },
+        {
+          "codigo": "910300",
+          "descripcion": "ACTIVIDADES DE JARDINES BOTÁNICOS, ZOOLÓGICOS Y RESERVAS NATURALES",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-bibliotecas-archivos-y-museos-y-otras-actividades-culturales",
+          "grupo": "ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES"
+        }
+      ]
+    },
+    {
+      "id": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-juegos-de-azar-y-apuestas",
+      "nombre": "ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS",
+      "giros": [
+        {
+          "codigo": "920010",
+          "descripcion": "ACTIVIDADES DE CASINOS DE JUEGOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-juegos-de-azar-y-apuestas",
+          "grupo": "ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS"
+        },
+        {
+          "codigo": "920090",
+          "descripcion": "OTRAS ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS N.C.P.",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-de-juegos-de-azar-y-apuestas",
+          "grupo": "ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS"
+        }
+      ]
+    },
+    {
+      "id": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+      "nombre": "ACTIVIDADES DEPORTIVAS",
+      "giros": [
+        {
+          "codigo": "931101",
+          "descripcion": "HIPÓDROMOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        },
+        {
+          "codigo": "931102",
+          "descripcion": "GESTIÓN DE SALAS DE BILLAR; GESTIÓN DE SALAS DE BOLOS (BOWLING)",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        },
+        {
+          "codigo": "931109",
+          "descripcion": "GESTIÓN DE OTRAS INSTALACIONES DEPORTIVAS N.C.P.",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        },
+        {
+          "codigo": "931201",
+          "descripcion": "ACTIVIDADES DE CLUBES DE FÚTBOL AMATEUR Y PROFESIONAL",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        },
+        {
+          "codigo": "931209",
+          "descripcion": "ACTIVIDADES DE OTROS CLUBES DEPORTIVOS N.C.P.",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        },
+        {
+          "codigo": "931901",
+          "descripcion": "PROMOCIÓN Y ORGANIZACIÓN DE COMPETENCIAS DEPORTIVAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        },
+        {
+          "codigo": "931909",
+          "descripcion": "OTRAS ACTIVIDADES DEPORTIVAS N.C.P.",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:actividades-deportivas",
+          "grupo": "ACTIVIDADES DEPORTIVAS"
+        }
+      ]
+    },
+    {
+      "id": "actividades-artisticas-de-entretenimiento-y-recreativas:otras-actividades-de-esparcimiento-y-recreativas",
+      "nombre": "OTRAS ACTIVIDADES DE ESPARCIMIENTO Y RECREATIVAS",
+      "giros": [
+        {
+          "codigo": "932100",
+          "descripcion": "ACTIVIDADES DE PARQUES DE ATRACCIONES Y PARQUES TEMÁTICOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:otras-actividades-de-esparcimiento-y-recreativas",
+          "grupo": "OTRAS ACTIVIDADES DE ESPARCIMIENTO Y RECREATIVAS"
+        },
+        {
+          "codigo": "932901",
+          "descripcion": "GESTIÓN DE SALAS DE POOL; GESTIÓN (EXPLOTACIÓN) DE JUEGOS ELECTRÓNICOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:otras-actividades-de-esparcimiento-y-recreativas",
+          "grupo": "OTRAS ACTIVIDADES DE ESPARCIMIENTO Y RECREATIVAS"
+        },
+        {
+          "codigo": "932909",
+          "descripcion": "OTRAS ACTIVIDADES DE ESPARCIMIENTO Y RECREATIVAS N.C.P.",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-artisticas-de-entretenimiento-y-recreativas",
+          "rubro": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+          "grupoId": "actividades-artisticas-de-entretenimiento-y-recreativas:otras-actividades-de-esparcimiento-y-recreativas",
+          "grupo": "OTRAS ACTIVIDADES DE ESPARCIMIENTO Y RECREATIVAS"
+        }
+      ]
+    }
+  ]
+};
+
+export const giros: readonly Giro[] = rubro.grupos.flatMap((grupo) => grupo.giros);
