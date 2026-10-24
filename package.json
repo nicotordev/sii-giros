@@ -1,7 +1,8 @@
 {
   "name": "@nicotordev/sii-giros",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Códigos de actividad económica del SII de Chile, consultables y exportables por rubro.",
+  "license": "MIT",
   "keywords": [
     "sii",
     "chile",
@@ -39,7 +40,8 @@
   "files": [
     "src",
     "public",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "rubros": "bun index.ts",
