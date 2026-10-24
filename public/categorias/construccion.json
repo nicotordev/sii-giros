@@ -1,0 +1,186 @@
+{
+  "id": "construccion",
+  "nombre": "CONSTRUCCIÓN",
+  "grupos": [
+    {
+      "id": "construccion:construccion-de-edificios",
+      "nombre": "CONSTRUCCIÓN DE EDIFICIOS",
+      "giros": [
+        {
+          "codigo": "410010",
+          "descripcion": "CONSTRUCCIÓN DE EDIFICIOS PARA USO RESIDENCIAL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:construccion-de-edificios",
+          "grupo": "CONSTRUCCIÓN DE EDIFICIOS"
+        },
+        {
+          "codigo": "410020",
+          "descripcion": "CONSTRUCCIÓN DE EDIFICIOS PARA USO NO RESIDENCIAL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:construccion-de-edificios",
+          "grupo": "CONSTRUCCIÓN DE EDIFICIOS"
+        }
+      ]
+    },
+    {
+      "id": "construccion:construccion-de-carreteras-y-lineas-de-ferrocarril",
+      "nombre": "CONSTRUCCIÓN DE CARRETERAS Y LÍNEAS DE FERROCARRIL",
+      "giros": [
+        {
+          "codigo": "421000",
+          "descripcion": "CONSTRUCCIÓN DE CARRETERAS Y LÍNEAS DE FERROCARRIL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:construccion-de-carreteras-y-lineas-de-ferrocarril",
+          "grupo": "CONSTRUCCIÓN DE CARRETERAS Y LÍNEAS DE FERROCARRIL"
+        }
+      ]
+    },
+    {
+      "id": "construccion:construccion-de-proyectos-de-servicio-publico",
+      "nombre": "CONSTRUCCIÓN DE PROYECTOS DE SERVICIO PÚBLICO",
+      "giros": [
+        {
+          "codigo": "422000",
+          "descripcion": "CONSTRUCCIÓN DE PROYECTOS DE SERVICIO PÚBLICO",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:construccion-de-proyectos-de-servicio-publico",
+          "grupo": "CONSTRUCCIÓN DE PROYECTOS DE SERVICIO PÚBLICO"
+        }
+      ]
+    },
+    {
+      "id": "construccion:construccion-de-otras-obras-de-ingenieria-civil",
+      "nombre": "CONSTRUCCIÓN DE OTRAS OBRAS DE INGENIERÍA CIVIL",
+      "giros": [
+        {
+          "codigo": "429000",
+          "descripcion": "CONSTRUCCIÓN DE OTRAS OBRAS DE INGENIERÍA CIVIL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:construccion-de-otras-obras-de-ingenieria-civil",
+          "grupo": "CONSTRUCCIÓN DE OTRAS OBRAS DE INGENIERÍA CIVIL"
+        }
+      ]
+    },
+    {
+      "id": "construccion:demolicion-y-preparacion-del-terreno",
+      "nombre": "DEMOLICIÓN Y PREPARACIÓN DEL TERRENO",
+      "giros": [
+        {
+          "codigo": "431100",
+          "descripcion": "DEMOLICIÓN",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:demolicion-y-preparacion-del-terreno",
+          "grupo": "DEMOLICIÓN Y PREPARACIÓN DEL TERRENO"
+        },
+        {
+          "codigo": "431200",
+          "descripcion": "PREPARACIÓN DEL TERRENO",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:demolicion-y-preparacion-del-terreno",
+          "grupo": "DEMOLICIÓN Y PREPARACIÓN DEL TERRENO"
+        }
+      ]
+    },
+    {
+      "id": "construccion:instalaciones-electricas-de-gasfiteria-y-otras-instalaciones-para-obras-de-construccion",
+      "nombre": "INSTALACIONES ELÉCTRICAS, DE GASFITERÍA Y OTRAS INSTALACIONES PARA OBRAS DE CONSTRUCCIÓN",
+      "giros": [
+        {
+          "codigo": "432100",
+          "descripcion": "INSTALACIONES ELÉCTRICAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:instalaciones-electricas-de-gasfiteria-y-otras-instalaciones-para-obras-de-construccion",
+          "grupo": "INSTALACIONES ELÉCTRICAS, DE GASFITERÍA Y OTRAS INSTALACIONES PARA OBRAS DE CONSTRUCCIÓN"
+        },
+        {
+          "codigo": "432200",
+          "descripcion": "INSTALACIONES DE GASFITERÍA, CALEFACCIÓN Y AIRE ACONDICIONADO",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:instalaciones-electricas-de-gasfiteria-y-otras-instalaciones-para-obras-de-construccion",
+          "grupo": "INSTALACIONES ELÉCTRICAS, DE GASFITERÍA Y OTRAS INSTALACIONES PARA OBRAS DE CONSTRUCCIÓN"
+        },
+        {
+          "codigo": "432900",
+          "descripcion": "OTRAS INSTALACIONES PARA OBRAS DE CONSTRUCCIÓN",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:instalaciones-electricas-de-gasfiteria-y-otras-instalaciones-para-obras-de-construccion",
+          "grupo": "INSTALACIONES ELÉCTRICAS, DE GASFITERÍA Y OTRAS INSTALACIONES PARA OBRAS DE CONSTRUCCIÓN"
+        }
+      ]
+    },
+    {
+      "id": "construccion:terminacion-y-acabado-de-edificios",
+      "nombre": "TERMINACIÓN Y ACABADO DE EDIFICIOS",
+      "giros": [
+        {
+          "codigo": "433000",
+          "descripcion": "TERMINACIÓN Y ACABADO DE EDIFICIOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:terminacion-y-acabado-de-edificios",
+          "grupo": "TERMINACIÓN Y ACABADO DE EDIFICIOS"
+        }
+      ]
+    },
+    {
+      "id": "construccion:otras-actividades-especializadas-de-construccion",
+      "nombre": "OTRAS ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN",
+      "giros": [
+        {
+          "codigo": "439000",
+          "descripcion": "OTRAS ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "construccion",
+          "rubro": "CONSTRUCCIÓN",
+          "grupoId": "construccion:otras-actividades-especializadas-de-construccion",
+          "grupo": "OTRAS ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN"
+        }
+      ]
+    }
+  ]
+}

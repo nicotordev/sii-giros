@@ -1,0 +1,62 @@
+{
+  "id": "actividades-inmobiliarias",
+  "nombre": "ACTIVIDADES INMOBILIARIAS",
+  "grupos": [
+    {
+      "id": "actividades-inmobiliarias:actividades-inmobiliarias-realizadas-con-bienes-propios-o-arrendados",
+      "nombre": "ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS",
+      "giros": [
+        {
+          "codigo": "681011",
+          "descripcion": "ALQUILER DE BIENES INMUEBLES AMOBLADOS O CON EQUIPOS Y MAQUINARIAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-inmobiliarias",
+          "rubro": "ACTIVIDADES INMOBILIARIAS",
+          "grupoId": "actividades-inmobiliarias:actividades-inmobiliarias-realizadas-con-bienes-propios-o-arrendados",
+          "grupo": "ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS"
+        },
+        {
+          "codigo": "681012",
+          "descripcion": "COMPRA, VENTA Y ALQUILER (EXCEPTO AMOBLADOS) DE INMUEBLES",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-inmobiliarias",
+          "rubro": "ACTIVIDADES INMOBILIARIAS",
+          "grupoId": "actividades-inmobiliarias:actividades-inmobiliarias-realizadas-con-bienes-propios-o-arrendados",
+          "grupo": "ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS"
+        },
+        {
+          "codigo": "681020",
+          "descripcion": "SERVICIOS IMPUTADOS DE ALQUILER DE VIVIENDAS",
+          "afectoIva": "G",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-inmobiliarias",
+          "rubro": "ACTIVIDADES INMOBILIARIAS",
+          "grupoId": "actividades-inmobiliarias:actividades-inmobiliarias-realizadas-con-bienes-propios-o-arrendados",
+          "grupo": "ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS"
+        }
+      ]
+    },
+    {
+      "id": "actividades-inmobiliarias:actividades-inmobiliarias-realizadas-a-cambio-de-una-retribucion-o-por-contrata",
+      "nombre": "ACTIVIDADES INMOBILIARIAS REALIZADAS A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA",
+      "giros": [
+        {
+          "codigo": "682000",
+          "descripcion": "ACTIVIDADES INMOBILIARIAS REALIZADAS A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "actividades-inmobiliarias",
+          "rubro": "ACTIVIDADES INMOBILIARIAS",
+          "grupoId": "actividades-inmobiliarias:actividades-inmobiliarias-realizadas-a-cambio-de-una-retribucion-o-por-contrata",
+          "grupo": "ACTIVIDADES INMOBILIARIAS REALIZADAS A CAMBIO DE UNA RETRIBUCIÓN O POR CONTRATA"
+        }
+      ]
+    }
+  ]
+}

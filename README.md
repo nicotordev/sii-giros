@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/@nicotordevsii-giros.png" alt="@nicotordev/sii-giros" width="420">
+</p>
+
 # @nicotordev/sii-giros
 
 Códigos de actividad económica del Servicio de Impuestos Internos de Chile, tomados de la [tabla oficial de códigos](https://www.sii.cl/ayudas/ayudas_por_servicios/1956-codigos-1959.html).
@@ -24,6 +28,8 @@ const excel = exportar({ rubros: ["construccion"] }, "csv-punto-y-coma");
 Los filtros presentes se combinan con Y. Varios valores del mismo filtro se combinan con O. `texto` busca en código, descripción, rubro y grupo, sin distinguir mayúsculas ni tildes.
 
 `exportar` acepta una selección o un arreglo de giros. Formatos: `json` (por defecto), `csv` y `csv-punto-y-coma` para Excel en español.
+
+Los mismos datos están en `public/`: `public/rubros.json` lista las categorías y `public/categorias/<id>.json` trae un rubro completo.
 
 Para cargar un solo rubro:
 

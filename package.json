@@ -16,6 +16,7 @@
   },
   "files": [
     "src",
+    "public",
     "README.md"
   ],
   "devDependencies": {

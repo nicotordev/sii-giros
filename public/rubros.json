@@ -1,0 +1,128 @@
+[
+  {
+    "id": "agricultura-ganaderia-silvicultura-y-pesca",
+    "nombre": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+    "grupos": 13,
+    "giros": 73
+  },
+  {
+    "id": "explotacion-de-minas-y-canteras",
+    "nombre": "EXPLOTACIÓN DE MINAS Y CANTERAS",
+    "grupos": 10,
+    "giros": 21
+  },
+  {
+    "id": "industria-manufacturera",
+    "nombre": "INDUSTRIA MANUFACTURERA",
+    "grupos": 71,
+    "giros": 174
+  },
+  {
+    "id": "suministro-de-electricidad-gas-vapor-y-aire-acondicionado",
+    "nombre": "SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AIRE ACONDICIONADO",
+    "grupos": 3,
+    "giros": 9
+  },
+  {
+    "id": "suministro-de-agua-evacuacion-de-aguas-residuales-gestion-de-desechos-y-descontaminacion",
+    "nombre": "SUMINISTRO DE AGUA; EVACUACIÓN DE AGUAS RESIDUALES, GESTIÓN DE DESECHOS Y DESCONTAMINACIÓN",
+    "grupos": 6,
+    "giros": 11
+  },
+  {
+    "id": "construccion",
+    "nombre": "CONSTRUCCIÓN",
+    "grupos": 8,
+    "giros": 12
+  },
+  {
+    "id": "comercio-al-por-mayor-y-al-por-menor-reparacion-de-vehiculos-automotores-y-motocicletas",
+    "nombre": "COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHICULOS AUTOMOTORES Y MOTOCICLETAS",
+    "grupos": 19,
+    "giros": 105
+  },
+  {
+    "id": "transporte-y-almacenamiento",
+    "nombre": "TRANSPORTE Y ALMACENAMIENTO",
+    "grupos": 11,
+    "giros": 36
+  },
+  {
+    "id": "actividades-de-alojamiento-y-de-servicio-de-comidas",
+    "nombre": "ACTIVIDADES DE ALOJAMIENTO Y DE SERVICIO DE COMIDAS",
+    "grupos": 6,
+    "giros": 12
+  },
+  {
+    "id": "informacion-y-comunicaciones",
+    "nombre": "INFORMACIÓN Y COMUNICACIONES",
+    "grupos": 13,
+    "giros": 32
+  },
+  {
+    "id": "actividades-financieras-y-de-seguros",
+    "nombre": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+    "grupos": 10,
+    "giros": 36
+  },
+  {
+    "id": "actividades-inmobiliarias",
+    "nombre": "ACTIVIDADES INMOBILIARIAS",
+    "grupos": 2,
+    "giros": 4
+  },
+  {
+    "id": "actividades-profesionales-cientificas-y-tecnicas",
+    "nombre": "ACTIVIDADES PROFESIONALES, CIENTIFICAS Y TÉCNICAS",
+    "grupos": 14,
+    "giros": 31
+  },
+  {
+    "id": "actividades-de-servicios-administrativos-y-de-apoyo",
+    "nombre": "ACTIVIDADES DE SERVICIOS ADMINISTRATIVOS Y DE APOYO",
+    "grupos": 19,
+    "giros": 33
+  },
+  {
+    "id": "administracion-publica-y-defensa-planes-de-seguridad-social-de-afiliacion-obligatoria",
+    "nombre": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA",
+    "grupos": 3,
+    "giros": 9
+  },
+  {
+    "id": "ensenanza",
+    "nombre": "ENSEÑANZA",
+    "grupos": 4,
+    "giros": 14
+  },
+  {
+    "id": "actividades-de-atencion-de-la-salud-humana-y-de-asistencia-social",
+    "nombre": "ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA Y DE ASISTENCIA SOCIAL",
+    "grupos": 9,
+    "giros": 16
+  },
+  {
+    "id": "actividades-artisticas-de-entretenimiento-y-recreativas",
+    "nombre": "ACTIVIDADES ARTÍSTICAS, DE ENTRETENIMIENTO Y RECREATIVAS",
+    "grupos": 5,
+    "giros": 20
+  },
+  {
+    "id": "otras-actividades-de-servicios",
+    "nombre": "OTRAS ACTIVIDADES DE SERVICIOS",
+    "grupos": 6,
+    "giros": 24
+  },
+  {
+    "id": "actividades-de-los-hogares-como-empleadores-actividades-no-diferenciadas-de-los-hogares",
+    "nombre": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES; ACTIVIDADES NO DIFERENCIADAS DE LOS HOGARES",
+    "grupos": 1,
+    "giros": 1
+  },
+  {
+    "id": "actividades-de-organizaciones-y-organos-extraterritoriales",
+    "nombre": "ACTIVIDADES DE ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES",
+    "grupos": 1,
+    "giros": 1
+  }
+]

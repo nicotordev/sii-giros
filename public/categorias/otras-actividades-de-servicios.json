@@ -1,0 +1,306 @@
+{
+  "id": "otras-actividades-de-servicios",
+  "nombre": "OTRAS ACTIVIDADES DE SERVICIOS",
+  "grupos": [
+    {
+      "id": "otras-actividades-de-servicios:actividades-de-asociaciones-empresariales-profesionales-y-de-empleadores",
+      "nombre": "ACTIVIDADES DE ASOCIACIONES EMPRESARIALES, PROFESIONALES Y DE EMPLEADORES",
+      "giros": [
+        {
+          "codigo": "941100",
+          "descripcion": "ACTIVIDADES DE ASOCIACIONES EMPRESARIALES Y DE EMPLEADORES",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-asociaciones-empresariales-profesionales-y-de-empleadores",
+          "grupo": "ACTIVIDADES DE ASOCIACIONES EMPRESARIALES, PROFESIONALES Y DE EMPLEADORES"
+        },
+        {
+          "codigo": "941200",
+          "descripcion": "ACTIVIDADES DE ASOCIACIONES PROFESIONALES",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-asociaciones-empresariales-profesionales-y-de-empleadores",
+          "grupo": "ACTIVIDADES DE ASOCIACIONES EMPRESARIALES, PROFESIONALES Y DE EMPLEADORES"
+        }
+      ]
+    },
+    {
+      "id": "otras-actividades-de-servicios:actividades-de-sindicatos",
+      "nombre": "ACTIVIDADES DE SINDICATOS",
+      "giros": [
+        {
+          "codigo": "942000",
+          "descripcion": "ACTIVIDADES DE SINDICATOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-sindicatos",
+          "grupo": "ACTIVIDADES DE SINDICATOS"
+        }
+      ]
+    },
+    {
+      "id": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+      "nombre": "ACTIVIDADES DE OTRAS ASOCIACIONES",
+      "giros": [
+        {
+          "codigo": "949100",
+          "descripcion": "ACTIVIDADES DE ORGANIZACIONES RELIGIOSAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        },
+        {
+          "codigo": "949200",
+          "descripcion": "ACTIVIDADES DE ORGANIZACIONES POLÍTICAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        },
+        {
+          "codigo": "949901",
+          "descripcion": "ACTIVIDADES DE CENTROS DE MADRES",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        },
+        {
+          "codigo": "949902",
+          "descripcion": "ACTIVIDADES DE CLUBES SOCIALES",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        },
+        {
+          "codigo": "949903",
+          "descripcion": "FUNDACIONES Y CORPORACIONES; ASOCIACIONES QUE PROMUEVEN ACTIVIDADES CULTURALES O RECREATIVAS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        },
+        {
+          "codigo": "949904",
+          "descripcion": "CONSEJO DE ADMINISTRACIÓN DE EDIFICIOS Y CONDOMINIOS",
+          "afectoIva": "NO",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "NO",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        },
+        {
+          "codigo": "949909",
+          "descripcion": "ACTIVIDADES DE OTRAS ASOCIACIONES N.C.P.",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:actividades-de-otras-asociaciones",
+          "grupo": "ACTIVIDADES DE OTRAS ASOCIACIONES"
+        }
+      ]
+    },
+    {
+      "id": "otras-actividades-de-servicios:reparacion-de-computadores-y-equipo-de-comunicaciones",
+      "nombre": "REPARACIÓN DE COMPUTADORES Y EQUIPO DE COMUNICACIONES",
+      "giros": [
+        {
+          "codigo": "951100",
+          "descripcion": "REPARACIÓN DE COMPUTADORES Y EQUIPO PERIFÉRICO",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-computadores-y-equipo-de-comunicaciones",
+          "grupo": "REPARACIÓN DE COMPUTADORES Y EQUIPO DE COMUNICACIONES"
+        },
+        {
+          "codigo": "951200",
+          "descripcion": "REPARACIÓN DE EQUIPO DE COMUNICACIONES (INCLUYE LA REPARACIÓN TELÉFONOS CELULARES)",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-computadores-y-equipo-de-comunicaciones",
+          "grupo": "REPARACIÓN DE COMPUTADORES Y EQUIPO DE COMUNICACIONES"
+        }
+      ]
+    },
+    {
+      "id": "otras-actividades-de-servicios:reparacion-de-efectos-personales-y-enseres-domesticos",
+      "nombre": "REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS",
+      "giros": [
+        {
+          "codigo": "952100",
+          "descripcion": "REPARACIÓN DE APARATOS ELECTRÓNICOS DE CONSUMO (INCLUYE APARATOS DE TELEVISIÓN Y RADIO)",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-efectos-personales-y-enseres-domesticos",
+          "grupo": "REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+        },
+        {
+          "codigo": "952200",
+          "descripcion": "REPARACIÓN DE APARATOS DE USO DOMÉSTICO, EQUIPO DOMÉSTICO Y DE JARDINERÍA",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-efectos-personales-y-enseres-domesticos",
+          "grupo": "REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+        },
+        {
+          "codigo": "952300",
+          "descripcion": "REPARACIÓN DE CALZADO Y DE ARTÍCULOS DE CUERO",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-efectos-personales-y-enseres-domesticos",
+          "grupo": "REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+        },
+        {
+          "codigo": "952400",
+          "descripcion": "REPARACIÓN DE MUEBLES Y ACCESORIOS DOMÉSTICOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-efectos-personales-y-enseres-domesticos",
+          "grupo": "REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+        },
+        {
+          "codigo": "952900",
+          "descripcion": "REPARACIÓN DE OTROS EFECTOS PERSONALES Y ENSERES DOMÉSTICOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:reparacion-de-efectos-personales-y-enseres-domesticos",
+          "grupo": "REPARACIÓN DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+        }
+      ]
+    },
+    {
+      "id": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+      "nombre": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES",
+      "giros": [
+        {
+          "codigo": "960100",
+          "descripcion": "LAVADO Y LIMPIEZA, INCLUIDA LA LIMPIEZA EN SECO, DE PRODUCTOS TEXTILES Y DE PIEL",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        },
+        {
+          "codigo": "960200",
+          "descripcion": "PELUQUERÍA Y OTROS TRATAMIENTOS DE BELLEZA",
+          "afectoIva": "G",
+          "categoriaTributaria": "G",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        },
+        {
+          "codigo": "960310",
+          "descripcion": "SERVICIOS FUNERARIOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        },
+        {
+          "codigo": "960320",
+          "descripcion": "SERVICIOS DE CEMENTERIOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        },
+        {
+          "codigo": "960901",
+          "descripcion": "SERVICIOS DE ADIESTRAMIENTO, GUARDERÍA, PELUQUERÍA, PASEO DE MASCOTAS (EXCEPTO ACT. VETERINARIAS)",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        },
+        {
+          "codigo": "960902",
+          "descripcion": "ACTIVIDADES DE SALONES DE MASAJES, BAÑOS TURCOS, SAUNAS, SERVICIO DE BAÑOS PÚBLICOS",
+          "afectoIva": "SI",
+          "categoriaTributaria": "1",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        },
+        {
+          "codigo": "960909",
+          "descripcion": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES N.C.P.",
+          "afectoIva": "NO",
+          "categoriaTributaria": "2",
+          "disponibleInternet": "SI",
+          "rubroId": "otras-actividades-de-servicios",
+          "rubro": "OTRAS ACTIVIDADES DE SERVICIOS",
+          "grupoId": "otras-actividades-de-servicios:otras-actividades-de-servicios-personales",
+          "grupo": "OTRAS ACTIVIDADES DE SERVICIOS PERSONALES"
+        }
+      ]
+    }
+  ]
+}

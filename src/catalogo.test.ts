@@ -37,6 +37,20 @@ describe("catálogo publicado", () => {
       girosConstruccion.map((giro) => giro.codigo),
     );
   });
+
+  test("publica cada rubro como JSON", async () => {
+    const raiz = join(import.meta.dir, "..", "public");
+    const archivos = (await readdir(join(raiz, "categorias")))
+      .filter((nombre) => nombre.endsWith(".json"))
+      .sort();
+    expect(archivos).toEqual(RUBRO_IDS.map((id) => `${id}.json`).sort());
+
+    const indice: unknown = await Bun.file(join(raiz, "rubros.json")).json();
+    expect(indice).toEqual(listarRubros());
+
+    const construccion: unknown = await Bun.file(join(raiz, "categorias", "construccion.json")).json();
+    expect(construccion).toEqual(rubroConstruccion);
+  });
 });
 
 describe("seleccionar", () => {
